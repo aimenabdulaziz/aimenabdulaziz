@@ -16,7 +16,7 @@
 ### Python
 - [Dartmouth Pathfinder](https://github.com/aimenabdulaziz/Dartmouth-Pathfinder) – designed a mini “Google Maps” for Dartmouth campus locations by creating a graph that models part of the campus, finding the shortest path from one vertex to another, and visualizing the path on the map.
 - [Sort Cities](https://github.com/aimenabdulaziz/Sort-Cities) – implemented the quicksort algorithm to sort 47,913 world cities by population, alphabet, and latitude and visualized the top 50 most populous cities on a world map.
-- [Gravity Simulator](https://github.com/aimenabdulaziz/Gravity-Simulator) – designed and implemented a simulator that animates the motion of stars, planets, or moons.
+- [Gravity Simulator](https://github.com/aimenabdulaziz/Gravity-Simulator) – designed and implemented a simulator that animates the motion of solar system.
 - [Atari Pong](https://github.com/aimenabdulaziz/Atari-Pong) – developed the classic Atari Pong game.
 
 
