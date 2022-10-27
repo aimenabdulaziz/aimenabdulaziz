@@ -8,7 +8,7 @@
 ## Sample Programming Projects
 | **Project** | **Description** | **Programming Language** |
 |:---:|:---|:---|
-| [Tiny Search Engine] (https://github.com/aimenabdulaziz/tiny-search-engine) | Designed and implemented a search engine that crawls webpages, indexes the contents of the pages, and processes user queries to return all relevant pages in ranked order, akin to Google | C and Bash |
+| [Tiny Search Engine](https://github.com/aimenabdulaziz/tiny-search-engine) | Designed and implemented a search engine that crawls webpages, indexes the contents of the pages, and processes user queries to return all relevant pages in ranked order, akin to Google | C and Bash |
 | Sudoku | Developed a sudoku game that generates a random puzzle with a unique solution and solves any sudoku passed by the user | C and Bash |
 | Modules | Implemented reusable modules such as set, counters, and hashtable and thoroughly tested their functionality | C and Bash |
 | [Part of Speech Tagger](https://github.com/aimenabdulaziz/POS-tagging-via-Hidden-Markov-Model)| Built a personal digital assistant that classifies each word in a sentence based on its part of speech tag using the Hidden Markov Model | Java |
